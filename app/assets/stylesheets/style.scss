@@ -1,12 +1,22 @@
 html,body{
   margin: 0px;
+  font-family: 'Open Sans', sans-serif;
 }
 .be-red{
-  background-color: #B00100;
+  background-color: #E74C3C;
 }
 .white{
-  color: #EFEFEF;
+  color: #ECF0F1;
 }
 .large-padding{
-  padding: 10px 7px;
+  padding: 8px 5px;
+}
+#logo{
+  font-size: 1.2em;
+}
+.no-margin{
+  margin: 0px;
+}
+a:visited{
+  color: inherit;
 }
